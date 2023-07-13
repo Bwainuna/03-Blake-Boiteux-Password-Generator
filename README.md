@@ -28,7 +28,7 @@ THEN the password is either displayed in an alert or written to the page
 
 screenshots of the deployed application:
 
-
+Screenshot 1 - ![Deployed Application](photos/03-Deployed.png)
 
 Sources that were used during this assignment came from class in canvas, as well as through the website listed below:
 
