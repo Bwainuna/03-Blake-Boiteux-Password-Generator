@@ -1,4 +1,4 @@
-# 03-Blake-Boiteux-Password-Generator
+# Blake-Boiteux-Password-Generator
 Module 3 Challenge - Password Generator.
 
 User Story
